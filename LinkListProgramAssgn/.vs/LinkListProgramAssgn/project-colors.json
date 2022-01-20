@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "350b2f58-b033-4923-a942-614fe8bb2486": {
+      "ProjectGuid": "350b2f58-b033-4923-a942-614fe8bb2486",
+      "DisplayName": "LinkListProgramAssgn",
+      "ColorIndex": 0
+    },
+    "0ccf1e47-fa0d-4e89-9a61-4a97a9ec2a6c": {
+      "ProjectGuid": "0ccf1e47-fa0d-4e89-9a61-4a97a9ec2a6c",
+      "DisplayName": "StackAssgn",
+      "ColorIndex": 1
+    },
+    "4e94c48a-2f9d-4c34-85dc-7c65f697b317": {
+      "ProjectGuid": "4e94c48a-2f9d-4c34-85dc-7c65f697b317",
+      "DisplayName": "QueueAssgn",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

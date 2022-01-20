@@ -1,0 +1,15 @@
+C:\Users\vgj24\source\repos\LinkListProgramAssgn\obj\Debug\net6.0\LinkListProgramAssgn.csproj.AssemblyReference.cache
+C:\Users\vgj24\source\repos\LinkListProgramAssgn\obj\Debug\net6.0\LinkListProgramAssgn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vgj24\source\repos\LinkListProgramAssgn\obj\Debug\net6.0\LinkListProgramAssgn.AssemblyInfoInputs.cache
+C:\Users\vgj24\source\repos\LinkListProgramAssgn\obj\Debug\net6.0\LinkListProgramAssgn.AssemblyInfo.cs
+C:\Users\vgj24\source\repos\LinkListProgramAssgn\obj\Debug\net6.0\LinkListProgramAssgn.csproj.CoreCompileInputs.cache
+C:\Users\vgj24\source\repos\LinkListProgramAssgn\bin\Debug\net6.0\LinkListProgramAssgn.exe
+C:\Users\vgj24\source\repos\LinkListProgramAssgn\bin\Debug\net6.0\LinkListProgramAssgn.deps.json
+C:\Users\vgj24\source\repos\LinkListProgramAssgn\bin\Debug\net6.0\LinkListProgramAssgn.runtimeconfig.json
+C:\Users\vgj24\source\repos\LinkListProgramAssgn\bin\Debug\net6.0\LinkListProgramAssgn.dll
+C:\Users\vgj24\source\repos\LinkListProgramAssgn\bin\Debug\net6.0\ref\LinkListProgramAssgn.dll
+C:\Users\vgj24\source\repos\LinkListProgramAssgn\bin\Debug\net6.0\LinkListProgramAssgn.pdb
+C:\Users\vgj24\source\repos\LinkListProgramAssgn\obj\Debug\net6.0\LinkListProgramAssgn.dll
+C:\Users\vgj24\source\repos\LinkListProgramAssgn\obj\Debug\net6.0\ref\LinkListProgramAssgn.dll
+C:\Users\vgj24\source\repos\LinkListProgramAssgn\obj\Debug\net6.0\LinkListProgramAssgn.pdb
+C:\Users\vgj24\source\repos\LinkListProgramAssgn\obj\Debug\net6.0\LinkListProgramAssgn.genruntimeconfig.cache
