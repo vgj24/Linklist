@@ -139,11 +139,6 @@ namespace LinkLIstProgramAssgn
         }
         internal void Organizedlist()
         {
-            //if(this.head==null)
-            //Console.WriteLine("list is empty");
-            //  return null;
-            //if (this.head.next == null)
-            //  return null;
             Node Current = head;
             int temp1;
             Node newnode = null;
@@ -172,36 +167,5 @@ namespace LinkLIstProgramAssgn
                 }
             }
         } 
-}    }   
-                   // temp = this.head;
-                   // if (temp.data.CompareTo(newnode.data) >= 0)
-                   // {
-                   // this.head.data = newnode.data;
-                   // newnode.data =temp.data;
-                   //// temp.next = this.head.next;
-                   // //newnode = temp.next;
-                   // Console.WriteLine(" head " + this.head.data);
-                   // Console.WriteLine(" temp" + temp.data);
-                   // //Console.WriteLine(" new node " + newnode.data);
-                   // }
-                   // else //56-30 false then 56 becomes head.data and 30 becomes this.head.next
-                   // {
-                   // this.head.data = temp.data;
-                   // temp.next = this.head.next;
-                   // newnode = temp.next;
-                   // Console.WriteLine(" head " + this.head.data);
-                   // Console.WriteLine("temp  " + temp.data);
-
-                    //Console.WriteLine(" newnode" + newnode.data);
-            
-                //    temp=this.head.next;
-                //    newnode=temp.next;
-                //    Console.WriteLine(" "+temp.data);
-                //}
-
-               // this.head = this.head.next;
-           // }
-         //   return null;
-       // }
-   // }
-//}
+     }   
+}                  
